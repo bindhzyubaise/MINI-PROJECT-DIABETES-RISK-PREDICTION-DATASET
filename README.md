@@ -1,2 +1,3 @@
 # MINI-PROJECT-DIABETES-RISK-PREDICTION-DATASET
 DIABETES RISK PREDICTION 
+https://drive.google.com/drive/folders/1qN55o-5lOVg8_yQwXRFXLVhmPRT2RS9j?usp=sharing
